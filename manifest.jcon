@@ -1,0 +1,18 @@
+{
+  "name": "Blog o histori toyoty supry",
+  "short_name": "Supra",
+  "theme_color": "#32f321",
+  "background_color": "#32f321",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/PWA/",
+  "icons" : [
+    { 
+        "src" : "./logo.png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }
+
+  ]
+}
